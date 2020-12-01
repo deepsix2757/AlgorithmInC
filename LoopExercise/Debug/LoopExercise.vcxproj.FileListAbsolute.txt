@@ -1,0 +1,2 @@
+C:\Users\deepsix\source\repos\LoopExercise\Debug\LoopExercise.exe
+C:\Users\deepsix\source\repos\LoopExercise\Debug\LoopExercise.pdb
